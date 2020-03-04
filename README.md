@@ -12,7 +12,9 @@ comments are provided explaining that part of the code.
 
 # Screen Shots
 
-![](ss/ss1.jpg)
+![](ss/ss1.png)
+
+![](ss/ss2.png)
 
 
 
