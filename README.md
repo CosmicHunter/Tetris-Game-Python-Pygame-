@@ -14,5 +14,5 @@ comments are provided explaining that part of the code.
 
 ![](ss/ss1.jpg)
 
-![](ss/ss2.jpg)
+
 
