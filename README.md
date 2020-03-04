@@ -10,3 +10,9 @@ comments are provided explaining that part of the code.
 * To run the game clone or download the code.
 * Install pygame python module with the following command :- <code><b> pip install pygame </b></code>
 
+# Screen Shots
+
+![](ss/ss1.jpg)
+
+![](ss/ss2.jpg)
+
