@@ -8,5 +8,5 @@ comments are provided explaining that part of the code.
 # Setup
 
 * To run the game clone or download the code.
-* Install pygame python module with the following command :- <code> pip install pygame </code>
+* Install pygame python module with the following command :- <code><b> pip install pygame </b></code>
 
