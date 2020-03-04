@@ -16,5 +16,8 @@ comments are provided explaining that part of the code.
 
 ![](ss/ss2.png)
 
+# Running Game
+
+![](ss/gif.gif)
 
 
